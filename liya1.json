@@ -7,7 +7,7 @@
     "key":"",
     "name":"凰浦影院",
     "type":1,
-    "api":"https://api.tiankongapi.com/api.php/provide/vod/",
+    "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,

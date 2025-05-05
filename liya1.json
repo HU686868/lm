@@ -3566,7 +3566,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ysx882/zb/refs/heads/main/zhibo.txt",
+      "url": "https://hub.gitmirror.com/raw.githubusercontent.com/HU686868/zb/refs/heads/main/zhibo.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/sctvmulticast.html/?ch={name}&date={date}",
